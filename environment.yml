@@ -1,0 +1,14 @@
+name: naico_gee
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - console_shortcut
+  - jupyterlab
+  - geemap
+  - ca-certificates
+  - certifi
+  - openssl
+  - geopandas
+  - localtileserver
+prefix: C:\Users\linss\.conda\envs\naico_gee
